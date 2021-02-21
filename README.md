@@ -8,6 +8,6 @@ The repo is MIT licensed, please feel free to use the materials any way you want
 
 _______________________________________
 
-Saw an error or have questions? Feel free to start an issue or email me at <aleksander.molak at gmail.com>
+Did you spot an error or have a question? Feel free to start an issue or email me at <aleksander.molak at gmail.com>
 
 💪🏼
